@@ -56,8 +56,7 @@ bash
 
 Copy code
 
-git clone https://github.com/ackben0226/Crop_Price_Forecasting_MLP.git
-cd Crop_Price_Forecasting_MLP
+git clone https://github.com/ackben0226/MLP-To-Forecast-Crop-Production-Export/blob/main/README.md.git
 Run the Jupyter Notebook: Open Multilayer_Perceptron_To_Forecast_Crop_Production_Export.ipynb to follow the step-by-step guide for loading the data, preprocessing, training the MLP model, and making predictions.
 
 ## Model Training and Prediction
