@@ -32,7 +32,7 @@ Project Structure
 The project files are organized as follows:
 
 ## Multilayer_Perceptron_To_Forecast_Crop_Production_Export.ipynb: 
-The main notebook file containing data preprocessing, model training, evaluation, and prediction steps.
+The main notebook file contains data preprocessing, model training, evaluation, and prediction steps.
 README.md: Project documentation.
 requirements.txt: List of required Python packages for easy setup.
 Requirements
@@ -56,7 +56,7 @@ bash
 
 Copy code
 
-git clone https://github.com/ackben0226/MLP-To-Forecast-Crop-Production-Export/blob/main/README.md
+git clone https://github.com/ackben0226/MLP-To-Forecast-Crop-Production-Export.git
 Run the Jupyter Notebook: Open Multilayer_Perceptron_To_Forecast_Crop_Production_Export.ipynb to follow the step-by-step guide for loading the data, preprocessing, training the MLP model, and making predictions.
 
 ## Model Training and Prediction
