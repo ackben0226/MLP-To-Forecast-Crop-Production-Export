@@ -14,7 +14,7 @@ This repository provides a machine learning model that leverages a Multilayer Pe
 - License
 
 ## Project Overview
-The goal of this project is to create a robust forecasting model for food crop prices using an MLP neural network. The MLP model processes historical crop prices and production-related data to predict future prices. This forecast can support policymakers, farmers, and supply chain managers in planning and preparing for market trends.
+This project aims to create a robust forecasting model for food crop prices using an MLP neural network. The MLP model processes historical crop prices and production-related data to predict future prices. This forecast can support policymakers, farmers, and supply chain managers in planning and preparing for market trends.
 
 ## Data
 The model requires historical data for the target crop, including:
@@ -22,7 +22,7 @@ The model requires historical data for the target crop, including:
 Yearly production levels
 Price per unit of crop
 Area and domain (e.g., specific geographic identifiers)
-This dataset should ideally span multiple years to capture trends and seasonality in crop pricing.
+This dataset should span multiple years to capture trends and seasonality in crop pricing.
 
 ## Data Preparation
 The dataset is cleaned and transformed using a preprocessing pipeline.
@@ -61,9 +61,9 @@ Run the Jupyter Notebook: Open Multilayer_Perceptron_To_Forecast_Crop_Production
 
 ## Model Training and Prediction
 Data Transformation: A preprocessing pipeline standardizes the input features.
-Model Architecture: The MLP model architecture is defined with layers to suit the data complexity and achieve accurate predictions.
+</ Model Architecture: The MLP model architecture is defined with layers to suit the data complexity and achieve accurate predictions.
 Training: Model is trained with a specified optimizer and loss function, with performance tracked through metrics.
-Prediction: Future crop prices are predicted for each year within the forecast horizon. Predictions are output to a DataFrame and visualized as a time-series trend plot.
+Prediction: Each year, future crop prices are predicted within the forecast horizon. Predictions are output to a DataFrame and visualized as a time-series trend plot.
 Results
 The output includes:
 
