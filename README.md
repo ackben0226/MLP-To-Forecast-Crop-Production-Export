@@ -61,7 +61,7 @@ Run the Jupyter Notebook: Open Multilayer_Perceptron_To_Forecast_Crop_Production
 
 ## Model Training and Prediction
 Data Transformation: A preprocessing pipeline standardizes the input features.
-</ Model Architecture: The MLP model architecture is defined with layers to suit the data complexity and achieve accurate predictions.
+< Model Architecture: The MLP model architecture is defined with layers to suit the data complexity and achieve accurate predictions.
 Training: Model is trained with a specified optimizer and loss function, with performance tracked through metrics.
 Prediction: Each year, future crop prices are predicted within the forecast horizon. Predictions are output to a DataFrame and visualized as a time-series trend plot.
 Results
